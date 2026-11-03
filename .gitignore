@@ -1,0 +1,14 @@
+# окружение и данные
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+memoirs_bot_data/
+logs/
+*.log
+*.pid
+*.pids.json
+
+# секреты
+.env
+.env.local
